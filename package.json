@@ -1,0 +1,13 @@
+{
+  "name": "Notelockers",
+  "description": "Platform for monetizing your class notes.",
+  "main": "server.js",
+  "author": "Adam Sugarman",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongodb": "^2.1.7",
+    "mongoose": "~3.6.13",
+    "morgan": "~1.0.0"
+  }
+}
